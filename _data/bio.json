@@ -1,43 +1,37 @@
 {
   "basics": {
-    "name": "Molly Maluhiala",
+    "name": "Adrian Hunter",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+    "email": "dekahedronical@gmail.com",
+    "phone": "5027121477",
+    "website": "https://dodendrixx.github.io",
+    "summary": "I am studying for an Associate's in Computer Information Technology at Sullivan University here my hometown of Louisville, KY. I expect to graduate by October, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
+
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Puzzles" },
+    { "name": "Excercise" },
+    { "name": "Videogames" },
+    { "name": "Hardware" },
+    { "name": "Software" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "MySQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "WinOS", "Git/GitHub", "AndroidOS" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Sullivan University",
+      "area": "Computer Information Technology",
+      "studyType": "Asscociate's Degree",
+      "startDate": "2021-09-27",
       "endDate": "Present",
       "courses": [
       ]
