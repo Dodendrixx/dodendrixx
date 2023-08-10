@@ -6,9 +6,10 @@
     "phone": "5027121477",
     "website": "https://dodendrixx.github.io",
     "summary": "I am studying for an Associate's in Computer Information Technology at Sullivan University here my hometown of Louisville, KY. I expect to graduate by October, 2023.",
-    "location": { "address": "", "postalCode": "", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
-
+    "location": { "address": "", "postalCode": "", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" }
   },
+
+
   "interests": [
     { "name": "Puzzles" },
     { "name": "Excercise" },
@@ -43,21 +44,21 @@
       "position": "Part-Time Supervisor",
       "startDate": "2018-05-30",
       "endDate": "2021-06-01",
-      "summary": "Monitor many employees to ensure they are working safe. Completed daily timecards for employees. Ensured that my area sorted an acceptable package per hour rate.",
-    },
-      {
+      "summary": "Monitor many employees to ensure they are working safe. Completed daily timecards for employees. Ensured that my area sorted an acceptable package per hour rate."
+  },
+    { 
       "company": "UPS",
         "position": "Administrative Technician Assistant",
         "startDate": "2021-05-30",
         "endDate": "2023-07-30",
-        "summary": "Inbounded all newly ordered hardware and used multiple interal UPS applications to catalog the location of all new purchases and repairs. Also inbounded all hardware returning to UPS from our repair vendor. E-recycled any obsolete equipment and maintained a secondary components invertory database.",
-      }
+        "summary": "Inbounded all newly ordered hardware and used multiple interal UPS applications to catalog the location of all new purchases and repairs. Also inbounded all hardware returning to UPS from our repair vendor. E-recycled any obsolete equipment and maintained a secondary components invertory database."
+      },
     {
       "company": "UPS",
       "position": "Midrange Console Operator",
       "startDate": "2023-07-30",
       "endDate": "Present",
-      "summary": "Monitor and maintain many critical UPS sort systems. Also provides a help desk support role to dispatch specialists to any area that requires the incident to be resolved or looked into.",
-    }
-  ],
+      "summary": "Monitor and maintain many critical UPS sort systems. Also provides a help desk support role to dispatch specialists to any area that requires the incident to be resolved or looked into."
+    },
+  ]
 }
